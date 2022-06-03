@@ -1,0 +1,4 @@
+here is the result of both files : This is the first file
+, this is the second file
+here is the result of both files : This is the first file
+, this is the second file
